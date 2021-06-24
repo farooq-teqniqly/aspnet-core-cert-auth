@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cert-client": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\src\\m\\mc-identity\\tools\\certs\\marelpro-root.pfx\" https://localhost:44362"
+    }
+  }
+}
